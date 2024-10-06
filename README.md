@@ -2,6 +2,7 @@
 
 Portfolio optimization for McGill competition 2024
 
+
 ## Portfolio level
 
 ### Asset Allocation Strategy
@@ -33,7 +34,7 @@ Things to consider:
     - Conditional Value at Risk (CVaR)
     - Maximum Drawdown
     - Sharpe Ratio
-- Determine adjusting strategy when the risk exceeds a certain threshold
+- Determine adjusting strategy when the risk exceeds a certain threshold -> should compare to market
 
 ### Performance Evaluation
 
@@ -70,6 +71,4 @@ Using asset pooling, we will select the best assets for each asset class.
     - Adjust the weights of the assets
     - Continue monitoring the risk level
     - Remove the asset from the pool if the risk level is too high
-
-
 
